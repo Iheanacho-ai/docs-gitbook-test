@@ -1,4 +1,6 @@
-‌# Summary​
+‌# Table of contents
+
+* [Talos Documentation](README.md)
 * [Overview](overview/_index.md)
     * [What is Talos?](overview/what-is-talos.md)
     * [Talos architectural overview](overview/talos-architectural-overview.md)
